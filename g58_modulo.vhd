@@ -8,15 +8,14 @@ ENTITY g58_modulo IS
 	PORT
 	(
 		A :  IN  STD_LOGIC_VECTOR(31 DOWNTO 0);
-		Amod2powB :  OUT STD_LOGIC_VECTOR(31 DOWNTO 0)
+		Amod2pow31 :  OUT STD_LOGIC_VECTOR(31 DOWNTO 0)
 	);
 END g58_modulo;
 
-ARCHITECTURE g58_modulo_arch OF g58_modulo IS 
+ARCHITECTURE g58_modulo_arch OF g58_modulo IS
 
 BEGIN
 
-
-Amod2powB <= "0" & A(30 downto 0);
+Amod2pow31 <= '0' & A(30 DOWNTO 0);
 
 END g58_modulo_arch;
