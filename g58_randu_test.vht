@@ -32,8 +32,20 @@ generate_test : PROCESS
 
 BEGIN
 
-seed <= "00000001100101010000000011110011";
-WAIT FOR 10 ns; -- suspend process for 10 nanoseconds at the start of each loop
+seed <= "00000000000000000000000000000001";
+WAIT FOR 10 ns;
+
+FOR i IN 0 to 6 LOOP -- loop over all A values
+	seed <= rand;
+	WAIT FOR 10 ns; -- suspend process for 10 nanoseconds at the start of each loop
+
+
+
+END LOOP;
+
+--seed <= "00000001100101010000000011110011";
+
+--WAIT FOR 10 ns; -- suspend process for 10 nanoseconds at the start of each loop
 
 WAIT; -- we have gone through all possible input patterns, so suspend simulator forever
 
