@@ -1,4 +1,12 @@
-C:/Users/Lixuan/Desktop/dsdlab2/g58_pop_enable_test.vht {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_pop_enable_test.vht
+C:/Users/Lixuan/Desktop/dsdlab2/g58_modulo.vhd {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_modulo.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g58_modulo
+-- Compiling architecture g58_modulo_arch of g58_modulo
+
+} {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_pop_enable_test.vht {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_pop_enable_test.vht
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
@@ -7,21 +15,14 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling entity g58_pop_enable_test
 -- Compiling architecture g58_pop_enable_test_arch of g58_pop_enable_test
 
-} {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_modulo.vhd {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_modulo.vhd
+} {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_7_segment_decoder_test.vht {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_7_segment_decoder_test.vht
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package STANDARD
 -- Loading package TEXTIO
 -- Loading package std_logic_1164
--- Compiling entity g58_modulo
--- Compiling architecture g58_modulo_arch of g58_modulo
-
-} {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_randu_test.vht {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_randu_test.vht
-Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
--- Loading package STANDARD
--- Loading package TEXTIO
--- Loading package std_logic_1164
--- Compiling entity g58_randu_test
--- Compiling architecture g58_randu_test_arch of g58_randu_test
+-- Loading package NUMERIC_STD
+-- Compiling entity g58_7_segment_decoder_test
+-- Compiling architecture g58_7_segment_decoder_test_arch of g58_7_segment_decoder_test
 
 } {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_pop_enable.vhd {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_pop_enable.vhd
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
@@ -31,6 +32,22 @@ Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
 -- Loading package LPM_COMPONENTS
 -- Compiling entity g58_pop_enable
 -- Compiling architecture g58_pop_enable_arch of g58_pop_enable
+
+} {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_randu_test.vht {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_randu_test.vht
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g58_randu_test
+-- Compiling architecture g58_randu_test_arch of g58_randu_test
+
+} {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_7_segment_decoder.vhd {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_7_segment_decoder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity g58_7_segment_decoder
+-- Compiling architecture g58_7_segment_decoder_arch of g58_7_segment_decoder
 
 } {} {}} C:/Users/Lixuan/Desktop/dsdlab2/g58_randu.vhd {1 {vcom -work work -2002 -explicit C:/Users/Lixuan/Desktop/dsdlab2/g58_randu.vhd
 Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012

@@ -1,0 +1,12 @@
+-- this circuit implements the 7-segment LED control
+-- 
+-- entity name: g58_RANDU
+--
+-- Copyright (C) 2017 Omar Akkila, Lixuan Tang
+-- Version 1.0
+-- Author: Omar Akkila (omar.akkila@mail.mcgill.ca), Lixuan Tang (lixuan.tang@mail.mcgill.ca)
+-- Date: 17/02/2017
+
+LIBRARY ieee;
+USE ieee.std_logic_1164.all;
+
